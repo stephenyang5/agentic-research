@@ -4,5 +4,5 @@ This is a project to get some experience with agentic programming/frameworks! Co
 
 Who knows. For now I've just implemented a very barebones retrieval pipeline that queries pubmed to extract titles/abstracts and then passes them to an LLM summary and outputs that. Planning to add agents to become callers of these functions in future weeks!
 
-Some resources I'm saving for myself
-https://docs.ccv.brown.edu/oscar/large-language-models/ollama
+Some resources I'm saving for myself:
+[Using `ollama` on OSCAR](https://docs.ccv.brown.edu/oscar/large-language-models/ollama)
